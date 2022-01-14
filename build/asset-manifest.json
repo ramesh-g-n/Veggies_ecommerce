@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/veggies_ecommerce/static/css/main.ace9898c.css",
+    "main.js": "/veggies_ecommerce/static/js/main.078b576b.js",
+    "static/media/FreshOffers.jpg": "/veggies_ecommerce/static/media/FreshOffers.863ed4f37a647f8844ee.jpg",
+    "index.html": "/veggies_ecommerce/index.html",
+    "main.ace9898c.css.map": "/veggies_ecommerce/static/css/main.ace9898c.css.map",
+    "main.078b576b.js.map": "/veggies_ecommerce/static/js/main.078b576b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace9898c.css",
+    "static/js/main.078b576b.js"
+  ]
+}
